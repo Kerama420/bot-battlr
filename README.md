@@ -68,3 +68,6 @@ npm run dev
 - Add a bot creation feature for users to design their own bots.
 - Enhance UI/UX with animations and better responsiveness.
 - Expand bot attributes for more strategic army-building.
+    
+***Access website with the following link:***
+https://bot-battlr-one-ebon.vercel.app/
